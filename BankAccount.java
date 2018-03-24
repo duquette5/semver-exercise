@@ -17,6 +17,15 @@ public class BankAccount
    }
 
    /**
+      Constructs a bank account given a starting balance.
+      @param startingBalance the starting balance
+   */
+   public BankAcount(double startingBalance)
+   {
+       this.balance = startingBalance;
+   }
+
+   /**
       Deposits money into the bank account and returns the new balance.
       @param amount the amount to deposit
       @return the new balance
