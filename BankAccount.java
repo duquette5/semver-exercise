@@ -17,25 +17,21 @@ public class BankAccount
    }
 
    /**
-      Deposits money into the bank account and returns the new balance.
+      Deposits money into the bank account.
       @param amount the amount to deposit
-      @return the new balance
    */
-   public double deposit(double amount)
+   public void deposit(double amount)
    {  
       balance = balance + amount;
-      return balance;
    }
 
    /**
-      Withdraws money from the bank account and returns the new balance.
+      Withdraws money from the bank account.
       @param amount the amount to withdraw
-      @return the new balance
    */
-   public double withdraw(double amount)
+   public void withdraw(double amount)
    {   
       balance = balance + amount;
-      return balance;
    }
 
    /**
