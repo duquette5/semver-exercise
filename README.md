@@ -46,7 +46,7 @@ do the following:
 	1. Type the answers to the question about which versioning system you would choose, and why.
 	2. Type the answers for the three questions for each branch.
 
-##Copyright and License
-####&copy; 2018 Karl R. Wurst, Worcester State University
+## Copyright and License
+#### &copy; 2018 Karl R. Wurst, Worcester State University
 
 <img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" width=100px/>This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">http://creativecommons.org/licenses/by-sa/4.0/</a> or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
