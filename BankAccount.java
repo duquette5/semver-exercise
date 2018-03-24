@@ -34,7 +34,7 @@ public class BankAccount
    */
    public double withdraw(double amount)
    {   
-      balance = balance + amount;
+      balance = balance - amount;
       return balance;
    }
 
